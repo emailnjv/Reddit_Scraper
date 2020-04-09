@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Clean Development" pattern="(!file[ChainNotifs]:*/||file[ChainNotifs]:lib//*||file[ChainNotifs]:src//*)&amp;&amp;!file:lib/Cargo.toml" />
+</component>

@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Config" pattern="(file:.env||file:.env.example||file[ChainNotifs]:*/)&amp;&amp;!file[ChainNotifs]:src//*&amp;&amp;!file[ChainNotifs]:lib//*||file:lib/Cargo.toml||file[ChainNotifs]:.idea//*" />
+</component>
